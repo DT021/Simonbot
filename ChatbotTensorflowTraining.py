@@ -1,5 +1,5 @@
+# This part is from Tensorflow tutorials to have as a base for my bot
 import tensorflow as tf
-
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.layers import Embedding, LSTM, Dense, Bidirectional
 from tensorflow.keras.preprocessing.text import Tokenizer
